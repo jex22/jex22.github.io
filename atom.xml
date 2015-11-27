@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hexo]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-11-27T12:36:47.990Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[John Doe]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2015/11/27/hello-world/"/>
+    <id>http://yoursite.com/2015/11/27/hello-world/</id>
+    <published>2015-11-27T12:36:47.990Z</published>
+    <updated>2015-11-27T12:36:47.990Z</updated>
+    <content type="html"><![CDATA[<p>###jex 22</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>###jex 22</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
